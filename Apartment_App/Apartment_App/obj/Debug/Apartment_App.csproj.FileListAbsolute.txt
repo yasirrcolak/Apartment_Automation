@@ -1,0 +1,15 @@
+C:\Users\muham\source\repos\Apartment_App\Apartment_App\obj\Debug\Apartment_App.csprojAssemblyReference.cache
+C:\Users\muham\source\repos\Apartment_App\Apartment_App\obj\Debug\Apartment_App.Properties.Resources.resources
+C:\Users\muham\source\repos\Apartment_App\Apartment_App\obj\Debug\Apartment_App.csproj.GenerateResource.cache
+C:\Users\muham\source\repos\Apartment_App\Apartment_App\obj\Debug\Apartment_App.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\Apartment_App\Apartment_App\bin\Debug\Apartment_App.exe.config
+C:\Users\muham\source\repos\Apartment_App\Apartment_App\bin\Debug\Apartment_App.exe
+C:\Users\muham\source\repos\Apartment_App\Apartment_App\bin\Debug\Apartment_App.pdb
+C:\Users\muham\source\repos\Apartment_App\Apartment_App\obj\Debug\Apartment_App.AdminChangeAndDeletePage.resources
+C:\Users\muham\source\repos\Apartment_App\Apartment_App\obj\Debug\Apartment_App.AdminListingPage.resources
+C:\Users\muham\source\repos\Apartment_App\Apartment_App\obj\Debug\Apartment_App.AdminNewMemberPage.resources
+C:\Users\muham\source\repos\Apartment_App\Apartment_App\obj\Debug\Apartment_App.AdminOperationsPage.resources
+C:\Users\muham\source\repos\Apartment_App\Apartment_App\obj\Debug\Apartment_App.MemberPage.resources
+C:\Users\muham\source\repos\Apartment_App\Apartment_App\obj\Debug\Apartment_App.WelcomePage.resources
+C:\Users\muham\source\repos\Apartment_App\Apartment_App\obj\Debug\Apartment_App.exe
+C:\Users\muham\source\repos\Apartment_App\Apartment_App\obj\Debug\Apartment_App.pdb
